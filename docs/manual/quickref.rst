@@ -18,6 +18,11 @@ pyDrone主控为ESP32-S3，基于MicroPython实现，01Studio提供完整的入�
 https://download.01studio.cc/zh_CN/latest/project/pyDrone/pyDrone.html
 
 
+组装和飞行视频
+----------------
+- 组装和飞行视频教程：https://b23.tv/BV1ct4y1V7qG
+
+
 构造函数
 ------------
 

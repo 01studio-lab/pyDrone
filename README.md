@@ -52,7 +52,7 @@ pyCar官方说明文档、MicroPython库文档。
 https://pyDrone.01studio.cc/zh_CN/latest/manual/quickref.html
 
 ### firmware
-pyDrone的MicroPython固件。  
+pyDrone的MicroPython固件源码。  
 https://github.com/01studio-lab/micropython/tree/master/ports/esp32/boards/PYDRONE
 
 ### hardware
