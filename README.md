@@ -66,7 +66,7 @@ pyDrone/
 
 ## Development Resources
 
-- [Wiki (Tutorials & Documentation)](https://wiki.01studio.cc/docs/pydrone)
+- [Wiki (Tutorials & Documentation)](https://wiki.01studio.cc/en/docs/pydrone/)
 
 ## Changelog
 
